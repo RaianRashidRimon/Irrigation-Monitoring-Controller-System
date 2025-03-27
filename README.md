@@ -30,3 +30,50 @@ This repository contains:
 <div align="center">
   <img src="Circuit Diagram.jpg" alt="Circuit Diagram" width="500"/>
 </div>
+
+## 🚀 Installation
+1. Clone the repository:
+
+   git clone `https://github.com/RaianRashidRimon/Irrigation-Monitoring-Controller-System`
+
+   
+2. Connect all the hardware components as per the circuit diagram
+3. Connect the Arduino Board to the laptop/desktop.
+4. Open the Arduino IDE and upload the code to your Arduino board.
+5. Power on the system and monitor readings via the LCD display or serial monitor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
