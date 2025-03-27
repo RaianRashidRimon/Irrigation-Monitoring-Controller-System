@@ -42,9 +42,13 @@ This repository contains:
 4. Open the Arduino IDE and upload the code to your Arduino board.
 5. Power on the system and monitor readings via the LCD display or serial monitor.
 
+## 📌 Usage
++ Ensure all connections are secure, and the sensors are properly calibrated.
++ Modify the threshold values in the Arduino code if needed.
++ Observe moisture readings and the automatic triggering of the pump when soil gets dry.
 
-
-
+## 🤝 Contributing
+Contributions are welcome! If you have improvements or additional features, feel free to fork this repository and submit a pull request.
 
 
 
