@@ -14,3 +14,10 @@ This repository contains:
 ## ⚙️ Features
 - **Automated Irrigation** – Controls water flow based on soil moisture levels.
 - **Real-time Monitoring** – Displays soil moisture and system status via LCD or serial monitor.
+
+## 🛠️ Circuit Diagram
+
++ Follow the diagram to assemble the components correctly.
+<div align="center">
+  <img src="Circuit Diagram.jpg" alt="Circuit Diagram" width="500"/>
+</div>
