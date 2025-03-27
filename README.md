@@ -15,6 +15,15 @@ This repository contains:
 - **Automated Irrigation** – Controls water flow based on soil moisture levels.
 - **Real-time Monitoring** – Displays soil moisture and system status via LCD or serial monitor.
 
+## 🔧 Components Required
++ Arduino Uno
++ Soil Moisture Sensor
++ 1Channel 5V Relay Module
++ Submersible Water Pump
++ Battery
++ Battery Connector
++ Connecting Wires
+
 ## 🛠️ Circuit Diagram
 
 + Follow the diagram to assemble the components correctly.
