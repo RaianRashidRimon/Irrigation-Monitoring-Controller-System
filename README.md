@@ -1,4 +1,5 @@
 # 🌱  Irrigation Monitoring & Controller System
+
 ## 📌 Overview
 The **_Irrigation Monitoring & Controller System_** is a beginner-friendly smart automation project designed to efficiently manage irrigation based on real-time soil moisture data. This system ensures that plants receive the right amount of water, preventing both overwatering and underwatering.
 
